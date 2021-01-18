@@ -21,7 +21,7 @@ After this open console, and write the following.
 ```
 mkdir steam-custom-status
 npm install steam-user
-pm install steam-totp
+npm install steam-totp
 ```
 
 After this make your way to this directory, and copy the following files into the directory.
