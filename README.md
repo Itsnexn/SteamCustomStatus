@@ -18,7 +18,7 @@ First off get your  Shared Secret. Read this page [HERE](https://github.com/Stea
 Fill in config.json
 
 After this open console, and write the following.
-```
+```bash
 mkdir steam-custom-status
 npm install steam-user
 npm install steam-totp
@@ -39,7 +39,7 @@ node bot
 
 # Bat file 
 if you want to make a bat file for easier usage you can just create a file with bat format than you just have to copy this :
-```
+```Batch
 node bot
 pause
 ```
